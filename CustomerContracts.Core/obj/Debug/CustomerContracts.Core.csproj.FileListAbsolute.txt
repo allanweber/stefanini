@@ -1,0 +1,6 @@
+C:\Users\allan\Desktop\stefanini\CustomerContracts\CustomerContracts.Core\bin\Debug\CustomerContracts.Core.dll
+C:\Users\allan\Desktop\stefanini\CustomerContracts\CustomerContracts.Core\bin\Debug\CustomerContracts.Core.pdb
+C:\Users\allan\Desktop\stefanini\CustomerContracts\CustomerContracts.Core\bin\Debug\Dapper.dll
+C:\Users\allan\Desktop\stefanini\CustomerContracts\CustomerContracts.Core\bin\Debug\Dapper.xml
+C:\Users\allan\Desktop\stefanini\CustomerContracts\CustomerContracts.Core\obj\Debug\CustomerContracts.Core.dll
+C:\Users\allan\Desktop\stefanini\CustomerContracts\CustomerContracts.Core\obj\Debug\CustomerContracts.Core.pdb
