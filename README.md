@@ -11,3 +11,5 @@ Optei por utilizar ajax nas requisições para não ter muito refresh de tela e 
 Outra opção foi não minificar os scripts para que eles possam ser lidos mais facilmente.
 
 Mantive no commit os packages pois como não conheço a forma de correção dessa tarefa preferi manter as depências junto do fonte
+
+Ps.: Nâo utilizei o atrinuto de Autorize no controller porque meu IISExpress está dando pau, perdi algumas horas tentando resolver mas acredito que terei que reinstalar.
